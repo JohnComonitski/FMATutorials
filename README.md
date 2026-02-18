@@ -1,4 +1,4 @@
-# FMATutorials
+# Football Match Analysis Tutorials
 
 This report contains tutorials and examples explaining how to use the [Football Match Analysis](https://github.com/JohnComonitski/FootballMatchAnalysis) library and work with event & tracking data.
 
