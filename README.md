@@ -8,7 +8,7 @@ This report contains tutorials and examples explaining how to use the [Football 
 - [Football Match Analysis](#footbal-match-analysis)
   - [Getting Started](#getting-started)
   - [Tutorials](#tutorials)
-  - [Data Sources] (#data-sources)
+  - [Data Sources](#data-sources)
  
 ## Getting Started
 1. Clone the repository
