@@ -39,6 +39,9 @@ This report contains tutorials and examples explaining how to use the [Football 
    pip install -r requirements.txt
    ```
 
+5. Work through the `getting_started.ipynb` notebook to install the FMA library and download sample data. The tutorial notebooks in this repo require this library and data to run.
+ 
+
 ## Tutorials
 ...
 
