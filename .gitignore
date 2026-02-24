@@ -190,3 +190,5 @@ FootballMatchAnalysis/*
 data
 data/*
 template.ipynb
+
+*.png
