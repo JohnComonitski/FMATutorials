@@ -52,6 +52,15 @@ This report contains tutorials and examples explaining how to use the [Football 
 
 > [4. Moments](https://github.com/JohnComonitski/FMATutorials/blob/main/basics/4%20moments.ipynb)
   
+📁 spatial_analysis
+> [1. Heat Maps](/)
+
+> [2. Zones](/)
+
+> [3. xG](/)
+
+> [3. xT](/)
+
 📁 event_analysis
 > [1. Key passes](https://github.com/JohnComonitski/FMATutorials/blob/main/event_analysis/1%20key%20passes.ipynb)
 
@@ -60,6 +69,11 @@ This report contains tutorials and examples explaining how to use the [Football 
 > [3. Possessions Per Shot](https://github.com/JohnComonitski/FMATutorials/blob/main/event_analysis/3%20possessions%20per%20shot.ipynb)
 
 > [4. Packing](https://github.com/JohnComonitski/FMATutorials/blob/main/event_analysis/4%20packing.ipynb)
+
+📁 advanced_analysis
+> [1. Pitch Control](/)
+
+> [2. Pass Probability](/)
 
 ## Data Sources
  - [Official Metrica Tracking & Event Data](https://github.com/metrica-sports/sample-data)
