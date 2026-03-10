@@ -53,13 +53,13 @@ This report contains tutorials and examples explaining how to use the [Football 
 > [4. Moments](https://github.com/JohnComonitski/FMATutorials/blob/main/basics/4%20moments.ipynb)
   
 📁 spatial_analysis
-> [1. Heat Maps](/)
+> [1. Heat Maps](https://github.com/JohnComonitski/FMATutorials/blob/main/spatial_analysis/1%20heat%20maps.ipynb)
 
-> [2. Zones](/)
+> [2. Zones](https://github.com/JohnComonitski/FMATutorials/blob/main/spatial_analysis/2%20zones.ipynb)
 
-> [3. xG](/)
+> [3. xG](https://github.com/JohnComonitski/FMATutorials/blob/main/spatial_analysis/3%20xg.ipynb)
 
-> [3. xT](/)
+> [3. xT](https://github.com/JohnComonitski/FMATutorials/blob/main/spatial_analysis/4%20xt.ipynb)
 
 📁 event_analysis
 > [1. Key passes](https://github.com/JohnComonitski/FMATutorials/blob/main/event_analysis/1%20key%20passes.ipynb)
@@ -71,9 +71,9 @@ This report contains tutorials and examples explaining how to use the [Football 
 > [4. Packing](https://github.com/JohnComonitski/FMATutorials/blob/main/event_analysis/4%20packing.ipynb)
 
 📁 advanced_analysis
-> [1. Pitch Control](/)
+> [1. Pitch Control](https://github.com/JohnComonitski/FMATutorials/blob/main/advanced_models/1%20pitch%20control.ipynb)
 
-> [2. Pass Probability](/)
+> [2. Pass Probability](https://github.com/JohnComonitski/FMATutorials/blob/main/advanced_models/2%20pass%20probability.ipynb)
 
 ## Data Sources
  - [Official Metrica Tracking & Event Data](https://github.com/metrica-sports/sample-data)
