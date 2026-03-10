@@ -58,7 +58,8 @@ This report contains tutorials and examples explaining how to use the [Football 
 > [2. One Twos](https://github.com/JohnComonitski/FMATutorials/blob/main/event_analysis/2%20one%20twos.ipynb)
 
 > [3. Possessions Per Shot](https://github.com/JohnComonitski/FMATutorials/blob/main/event_analysis/3%20possessions%20per%20shot.ipynb)
-  
+
+> [4. Packing](https://github.com/JohnComonitski/FMATutorials/blob/main/event_analysis/4%20packing.ipynb)
 
 ## Data Sources
  - [Official Metrica Tracking & Event Data](https://github.com/metrica-sports/sample-data)
