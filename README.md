@@ -75,6 +75,8 @@ This report contains tutorials and examples explaining how to use the [Football 
 
 > [2. Pass Probability](https://github.com/JohnComonitski/FMATutorials/blob/main/advanced_models/2%20pass%20probability.ipynb)
 
+> [3. EPV](https://github.com/JohnComonitski/FMATutorials/blob/main/advanced_models/3%20epv.ipynb)
+
 ## Data Sources
  - [Official Metrica Tracking & Event Data](https://github.com/metrica-sports/sample-data)
  - [Generate Your Own Tracking & Event Data](https://github.com/JohnComonitski/FootballTrackingDataGeneration)
